@@ -76,9 +76,6 @@ o	Use filters and slicers to focus on specific periods, pizza types, or other me
 •	Add predictive analytics to forecast future sales trends.
 •	Automate data refresh for real-time analytics.
 
-## Report
-![Pizza Sales](https://github.com/manar448/Pizza-Sales/blob/main/Manar%20Alaa%20-%20dashboard.pdf)
-
 ## Contributing
 Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
 
